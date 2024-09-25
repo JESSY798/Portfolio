@@ -45,7 +45,7 @@
 }
 .right{
     display: inline-block;
-    position: fixed;
+    width:60%;
 }
 #line{
     height: 1px;
