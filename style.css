@@ -42,12 +42,10 @@
     border-radius: 15px;
     color: white;
     margin-left: 5px;
-    position:fixed;
 }
 .right{
     display: inline-block;
     width:60%;
-    position:fixed;
 }
 #line{
     height: 1px;
